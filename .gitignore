@@ -137,3 +137,6 @@ Thumbs.db
 .dmypy.json
 dmypy.json
 .pytype/
+
+sales_scaler.pkl
+sales_closure_model.pkl
